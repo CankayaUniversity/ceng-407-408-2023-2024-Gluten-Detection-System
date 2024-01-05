@@ -31,5 +31,4 @@ _______________________________________________________
 
 [Project Webpage](https://glutendetectionapp.wixsite.com/sitem)
 
-[Project Report (PDF Format)](https://github.com/CankayaUniversity/ceng-407-408-2023-2024-Gluten-Detection-System/files/13840091/CENG407_Group7_Project_Report.pdf)
-
+[Project Report (PDF Format)](https://github.com/CankayaUniversity/ceng-407-408-2023-2024-Gluten-Detection-System/wiki/Project-Report-(PDF))
